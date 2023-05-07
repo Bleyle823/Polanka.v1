@@ -4,13 +4,6 @@
 
 Polanka is an Ecommerce Landing Page Built With Next.js and Tailwind CSS.
 
-## Screenshots
-
-| Dark Mode                  | Light Mode                      |
-| -------------------------- | ------------------------------- |
-| ![](public/screenshot.jpg) | ![](public/dark-screenshot.png) |
-
----
 
 ## Shop Page
 
